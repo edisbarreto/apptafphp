@@ -11,7 +11,7 @@
     <body>
         <?php
         include "topo.php";
-        $url = "https://tcctafphp.herokuapp.com/exercito";
+        $url = "https://apptaf.herokuapp.com/exercito";
         $ch = curl_init($url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
