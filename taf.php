@@ -46,7 +46,7 @@
                     ?>
                     <tr> 
                         <td><?=$obj->id?></td>
-                        <td><?=$obj->teste?></td>
+                        <td><?=$obj->teste?></td> 
                         <td><?=$obj->instante?></td>                        
                         <td>
                             <a class="btn btn-sm btn-primary" href="#">Editar</a>                                                   
