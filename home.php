@@ -20,7 +20,7 @@
                
         <div class="panel-body" align="center">            
             <br>
-            <img src="./img/17bfron.jpg" height="20%" width="20%">
+            <img src="./img/logo.png" height="20%" width="20%">
             <br>
             
         </div>        

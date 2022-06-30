@@ -27,7 +27,7 @@
                         <a class="nav-link" href="pelotao.php" data-tooltip="tooltip" title="">Pelotão</a>
                     </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="militar" data-tooltip="tooltip" title="">Militar</a>
+                        <a class="nav-link" href="militar.php" data-tooltip="tooltip" title="">Militar</a>
                     </li>
                      <li class="nav-item">
                         <a class="nav-link" href="exercicio.php" data-tooltip="tooltip" title="">Exercício</a>
